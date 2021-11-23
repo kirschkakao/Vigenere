@@ -1,0 +1,14 @@
+C:\Users\D91611\source\repos\Vigenere\Vigenere\obj\Debug\Vigenere.csprojAssemblyReference.cache
+C:\Users\D91611\source\repos\Vigenere\Vigenere\obj\Debug\MainWindow.g.cs
+C:\Users\D91611\source\repos\Vigenere\Vigenere\obj\Debug\App.g.cs
+C:\Users\D91611\source\repos\Vigenere\Vigenere\obj\Debug\Vigenere_MarkupCompile.cache
+C:\Users\D91611\source\repos\Vigenere\Vigenere\bin\Debug\Vigenere.exe.config
+C:\Users\D91611\source\repos\Vigenere\Vigenere\bin\Debug\Vigenere.exe
+C:\Users\D91611\source\repos\Vigenere\Vigenere\bin\Debug\Vigenere.pdb
+C:\Users\D91611\source\repos\Vigenere\Vigenere\obj\Debug\MainWindow.baml
+C:\Users\D91611\source\repos\Vigenere\Vigenere\obj\Debug\Vigenere.g.resources
+C:\Users\D91611\source\repos\Vigenere\Vigenere\obj\Debug\Vigenere.Properties.Resources.resources
+C:\Users\D91611\source\repos\Vigenere\Vigenere\obj\Debug\Vigenere.csproj.GenerateResource.cache
+C:\Users\D91611\source\repos\Vigenere\Vigenere\obj\Debug\Vigenere.csproj.CoreCompileInputs.cache
+C:\Users\D91611\source\repos\Vigenere\Vigenere\obj\Debug\Vigenere.exe
+C:\Users\D91611\source\repos\Vigenere\Vigenere\obj\Debug\Vigenere.pdb
